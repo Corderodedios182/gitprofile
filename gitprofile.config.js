@@ -95,7 +95,7 @@ const config = {
   ], */
   education: [
     {
-      institution: 'UNAM',
+      institution: 'Faculty of Sciences, Autonomous University of Mexico',
       degree: 'Mathematical',
       from: '2013',
       to: '2017',
