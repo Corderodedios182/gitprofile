@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'Corderodedios182', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,58 +11,79 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Carlos Roberto Flores Luna',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'carlosunam.flores@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Python',
+    'R',
+    'Scala',
+    'SQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Azure DevOps',
+    'Databricks',
+    'Azure Synapse',
+    'Spark',
+    'Statistics',
+    'Machine Learning',
+    'Deep Learning',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'NTT Data',
+      position: 'Data Scientist',
+      from: 'July 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.linkedin.com/company/nttdata/mycompany/verification/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Walmart',
+      position: 'Sr. Data Scientist',
+      from: 'July 2020',
+      to: 'July 2022',
+      companyLink: 'https://www.linkedin.com/company/walmart/',
     },
+    {
+      company: 'https://letsrebold.com/es/quienes-somos/',
+      position: 'Data Scientist',
+      from: 'January 2018',
+      to: 'July 2020',
+      companyLink: '',
+    },
+    {
+      company: 'Nielsen',
+      position: 'Data Scientist',
+      from: 'June 2015',
+      to: 'January 2018',
+      companyLink: 'https://www.linkedin.com/company/nielsen/',
+    },
+    {
+      company: 'Axxa Financial',
+      position: 'Training',
+      from: 'June 2014',
+      to: 'Jane 2015',
+      companyLink: '',
+    },
+    
   ],
   /* certifications: [
     {
@@ -74,16 +95,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UNAM',
+      degree: 'Mathematical',
+      from: '2013',
+      to: '2017',
     },
   ],
 
