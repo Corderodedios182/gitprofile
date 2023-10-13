@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'Carlos Roberto Flores Luna',
+    linkedin: 'https://www.linkedin.com/in/carlos-roberto-flores-luna-5050a413b/',
     twitter: '',
     mastodon: '',
     facebook: '',
